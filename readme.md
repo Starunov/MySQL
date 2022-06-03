@@ -1,1 +1,1 @@
-Курс MySQL GeekBrains
+Урок 2 вебинар
