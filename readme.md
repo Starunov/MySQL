@@ -1,1 +1,1 @@
-test
+Курс MySQL GeekBrains
